@@ -1,0 +1,4 @@
+chests-per-chunk: 50
+shulkers-per-chunk: 30
+chest-message: "&6You can only place %chests_per_chunk% chests per chunk"
+shulker-message: "&6You can only place %shulkers_per_chunk% shulkers per chunk"

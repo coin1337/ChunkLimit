@@ -1,0 +1,4 @@
+name: ChunkLimit
+version: ${project.version}
+main: ChunkLimit
+description: ${project.description}
